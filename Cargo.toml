@@ -1,0 +1,9 @@
+[package]
+name = "wsc"
+version = "0.1.0"
+authors = ["Andi Miller <andi@andimiller.net>"]
+
+[dependencies]
+websocket = "0.17.0"
+clap = "2.3.0"
+
